@@ -11,7 +11,7 @@ int main()
     while (i <= 10)
     {
         p *= i;
-        // i++;
+        i++;
     };
     cout << "p = " << p << "   i = " << i << endl;
 
